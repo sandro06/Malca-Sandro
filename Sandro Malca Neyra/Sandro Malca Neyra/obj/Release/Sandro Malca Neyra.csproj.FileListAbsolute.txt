@@ -1,0 +1,6 @@
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\obj\Release\Sandro Malca Neyra.csprojResolveAssemblyReference.cache
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\bin\Release\Sandro Malca Neyra.exe.config
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\bin\Release\Sandro Malca Neyra.exe
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\bin\Release\Sandro Malca Neyra.pdb
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\obj\Release\Sandro Malca Neyra.exe
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\obj\Release\Sandro Malca Neyra.pdb

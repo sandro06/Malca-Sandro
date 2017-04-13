@@ -1,0 +1,6 @@
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\bin\Debug\Sandro Malca Neyra.exe.config
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\bin\Debug\Sandro Malca Neyra.exe
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\bin\Debug\Sandro Malca Neyra.pdb
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\obj\Debug\Sandro Malca Neyra.exe
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\obj\Debug\Sandro Malca Neyra.pdb
+C:\Users\PC-User\Documents\Visual Studio 2017\Projects\Malca-Neyra-Sandro\Sandro Malca Neyra\Sandro Malca Neyra\obj\Debug\Sandro Malca Neyra.csprojResolveAssemblyReference.cache
